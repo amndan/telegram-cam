@@ -1,0 +1,55 @@
+    1  passwd
+    2  ls
+    3  python
+    4  mkdir workspace
+    5  cd workspace/
+    6  ls
+    7  sudo raspi-config 
+    8  ls
+    9  cd w
+   10  cd wo
+   11  ls
+   12  vim 
+   13  sudo apt-get update
+   14  sudo apt-get upgrade
+   15  sudo apt-get install htop
+   16  htop
+   17  ls
+   18  vim .vimrc
+   19  sudo apt-get install vim
+   20  vim .vimrc
+   21  ls
+   22  vim .vimrc
+   23  ls
+   24  ll
+   25  ls -la
+   26  mv .vimrc ../
+   27  cd ..
+   28  ls
+   29  ls -la
+   30  cd workspace/
+   31  ls
+   32  vim telegramCam.py
+   33  cd ..
+   34  vim .vimrc 
+   35  ls
+   36  cd workspace/
+   37  ls
+   38  vim telegramCam.py
+   39  ls
+   40  vim telegramCam.py
+   41  ls
+   42  python telegramCam.py 
+   43  sudo apt-get install python-picamera
+   44  python telegramCam.py 
+   45  sudo apt-get install python-opencv
+   46  python telegramCam.py 
+   47  pip install python-telegram-bot --upgrade
+   48  sudo apt-get install python-pip
+   49  pip install python-telegram-bot --upgrade
+   50  sudo apt-get install libssl-dev 
+   51  pip install python-telegram-bot --upgrade
+   52  sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+   53  pip install python-telegram-bot --upgrade
+   54  python telegramCam.py 
+   55  history > istall.log
